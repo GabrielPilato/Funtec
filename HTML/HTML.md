@@ -1,7 +1,7 @@
 # HTML
 Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas de HTML -
 
-'<!DOCTYPE html> - Para definir o tipo de arquivo e disponibilizar para o browser uma identificação do arquivo que está sendo lido
+"<!DOCTYPE html>" - Para definir o tipo de arquivo e disponibilizar para o browser uma identificação do arquivo que está sendo lido
 <html> - O inicio do programa em HTML
   <head> - As informações da Guia do browser, como por exemplo o titulo <title>
     <body> - O corpo do programa, onde as principais funcionalidades e organizações serão inseridas
