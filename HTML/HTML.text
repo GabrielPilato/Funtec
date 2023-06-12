@@ -1,4 +1,5 @@
 # HTML
+Neste arquivo estão as observações e definições de propriedades do HTML
 Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas de HTML -
 
 <!DOCTYPE html> - Para definir o tipo de arquivo e disponibilizar para o browser uma identificação do arquivo que está sendo lido
@@ -9,5 +10,12 @@ Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas d
         <section> - Indicamos aqui uma parte da página reservada para adicionarmos informações
           <header> - O cabeçalho desta parte reservada
             <article> - As informações em si serão inseridas aqui
-     <footer> - Informaões no rodapé da página como contatos e etc'
-         
+     <footer> - Informaões no rodapé da página como contatos e etc
+     
+     <h1> - Somente permitido uma vez na página, denota o suposto título da página, onde seu tamanho e destaque é muito maior
+     <h2> <h3> - Demais tamanhos de fontes 
+     
+     <p> - Parágrafo, Textos e conteudos
+     <a> - Âncora, responsável por vincular um link ao texto, por exemplo <a href = "www.google.com">  </a>
+      Utilizar o target="_blank" dentro do <a href> permite que o link vinculado seja aberto numa nova aba do navegador
+        EXEMPLO: <a target="_blank" href="https://www.ribeiraopreto.sp.gov.br/portal/funtec"> Site da FUNTEC </a>
