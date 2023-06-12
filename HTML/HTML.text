@@ -19,3 +19,5 @@ Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas d
      <a> - Âncora, responsável por vincular um link ao texto, por exemplo <a href = "www.google.com">  </a>
       Utilizar o target="_blank" dentro do <a href> permite que o link vinculado seja aberto numa nova aba do navegador
         EXEMPLO: <a target="_blank" href="https://www.ribeiraopreto.sp.gov.br/portal/funtec"> Site da FUNTEC </a>
+     <img src=""> - Para adicionar uma imagem, caso a mesma esteja na mesma pasta que o arquivo HTML em si, não é necessário digitar todo o endereço
+     <img src="" alt=""> - O alt é utilizado a motivo de acessibilidade, utilizado para descrever o conteúdo da imagem em questão
