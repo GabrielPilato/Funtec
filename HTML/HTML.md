@@ -1,0 +1,13 @@
+# HTML
+Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas de HTML -
+
+<!DOCTYPE html> - Para definir o tipo de arquivo e disponibilizar para o browser uma identificação do arquivo que está sendo lido
+<html> - O inicio do programa em HTML
+  <head> - As informações da Guia do browser, como por exemplo o titulo <title>
+    <body> - O corpo do programa, onde as principais funcionalidades e organizações serão inseridas
+      <header> - O cabeçalho do corpo
+        <section> - Indicamos aqui uma parte da página reservada para adicionarmos informações
+          <header> - O cabeçalho desta parte reservada
+            <article> - As informações em si serão inseridas aqui
+     <footer> - Informaões no rodapé da página como contatos e etc
+         
