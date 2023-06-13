@@ -4,8 +4,8 @@ Neste repositório estão presentes as atividades e conceitos estudados durante 
 
 Criar um documento style.css
 
-#"nome do id" - o # Denota um id, um id somente pode ser utilizado uma única vez na pagina assim como o h1
-."nome da classe" - . Denota uma classe, diferente do id, a classe pode ser chamada diversas vezes durante a pagina 
+"#nome do id" - o # Denota um id, um id somente pode ser utilizado uma única vez na pagina assim como o h1
+".nome da classe" - . Denota uma classe, diferente do id, a classe pode ser chamada diversas vezes durante a pagina 
 
 O arquivo CSS deve ser chamado sempre no head do arquivo para que o browser já carregue o arquivo de estilo desde o início:
 
