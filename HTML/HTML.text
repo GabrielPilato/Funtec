@@ -21,3 +21,9 @@ Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas d
         EXEMPLO: <a target="_blank" href="https://www.ribeiraopreto.sp.gov.br/portal/funtec"> Site da FUNTEC </a>
      <img src=""> - Para adicionar uma imagem, caso a mesma esteja na mesma pasta que o arquivo HTML em si, não é necessário digitar todo o endereço
      <img src="" alt=""> - O alt é utilizado a motivo de acessibilidade, utilizado para descrever o conteúdo da imagem em questão
+     
+     <ul> - Cria uma lista ordenada com bolinhas = .
+      <li> - Para cada li será ordenado essas linhas
+      
+     <ol> - Cria uma lista assim como o ul, porém ela será ordenada com números crescentes.
+      <li> - Para cada li será ordenado as linhas com os números
