@@ -28,4 +28,13 @@ Exemplo:
   <h2 class="subtitle"> SUBTITULO </h2>
   <h3 class="post_title"> POSTTITLE </h3>
   
+  padding: 10px 15px; A primeira configuração do padding altera o padding referente à parte superior e inferior do elemento,
+                      Ja a segunda configuração do padding altera o padding referente à partes laterais do elemento.
+                      
+                      padding: 10px 15px 10px 15px - Cima, direita, baixo, esquerda
+   site PEXELS para imagens gratuitas
+   
+   background-image: url("endereco da imagem")
+   background-repeat: no-repeat - Para não repetir a imagem varias vezes
+   background-size: cover - Para cobrir a imagem em todo o espaço
  
