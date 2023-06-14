@@ -8,3 +8,12 @@ Outra ideia: realizar o aplicativo de cadastro de alunos e realização de chama
              preciso ainda recolher requisitos com ela e decidir as informações principais, como ela trabalha com Excel avançado, eu imagino que ela use bastante
              então talvez uma vinculação com as planilhas seria interessante, onde não seria necessário cadastrar um por um, e também as informações de presença
              podem ser exportados para uma planilha no Excel também.
+             
+             -- Sim, o controle dos usuarios e presença é realizada por meio de planilhas, 
+             possibilidades: realizar o controle automático utilizando as planilhas, ou seja,
+                             buscar informações das planilhas e trazer para o app
+                             e enviar informações do app para planilhas. Com o intuito de automatizar esse processo.
+                             
+                             realizar o controle de forma automática direto com o banco de dados -- preciso conversar com a professora e com o coordenador
+                             para entender melhor como funciona e como seria esse carregamento de dados.
+                             
