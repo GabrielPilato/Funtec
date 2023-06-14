@@ -37,4 +37,9 @@ Exemplo:
    background-image: url("endereco da imagem")
    background-repeat: no-repeat - Para não repetir a imagem varias vezes
    background-size: cover - Para cobrir a imagem em todo o espaço
+   
+   box-shadow: - Permite adicionar uma sombra em algum elemento, de preferencia uma caixa/imagem, para dar um sensação de profundidade, elevaçã.=o.
+   
+   .container:hover - Indica que as propriedades serão aplicadas quando o mouse passar pelo item
+   
  
