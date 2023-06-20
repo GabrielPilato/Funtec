@@ -27,3 +27,5 @@ Neste repositório estão disponíveis arquivos desenvolvidos durante as aulas d
       
      <ol> - Cria uma lista assim como o ul, porém ela será ordenada com números crescentes.
       <li> - Para cada li será ordenado as linhas com os números
+
+      <!- -> Comentario em HTML
