@@ -55,6 +55,8 @@
 
       - git restore --stage 'Nome do arquivo', é responsável por tirar certos arquivos da zona de stage e evitar que os mesmos sejam commitados na execução do git commit.
 
+      - git revert numero_hash, quando desejar reverter um commit, é necessário copiar o seu codigo hash e realizar esse comando.
+
       
       
     
