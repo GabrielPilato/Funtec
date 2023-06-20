@@ -38,15 +38,15 @@
     SHA1 - É uma criptografia, uma assinatura contendo todas as informações do commit.
 
     - CRIANDO O REPOSÍTÓRIO
-      git init - Inicia o repositório.
-      git add - Adiciona um arquivo, começa o versionamento de código
-      git commit - Para dar commit nessas alterações realizadas.
-        -m adiciona uma mensagem git commit -m "Comentario"
-      git status - Para identificar a diferença entre o que você colocou na zona de stage e o que está presente no commit anterior
+      - git init - Inicia o repositório.
+      - git add - Adiciona um arquivo, começa o versionamento de código
+      - git commit - Para dar commit nessas alterações realizadas.
+        - "-m" adiciona uma mensagem git commit -m "Comentario"
+      - git status - Para identificar a diferença entre o que você colocou na zona de stage e o que está presente no commit anterior
 
-      git add * , adiciona todos os arquivos pra zona de stage, inclusive, caso haja alguma exclusão de arquivos nesta pasta que estava na versão anterior
+      - git add * , adiciona todos os arquivos pra zona de stage, inclusive, caso haja alguma exclusão de arquivos nesta pasta que estava na versão anterior
       ele também realizará a exclusão,
-        Através do git status é possível identificar o que está sendo adicionado  e o que está sendo deletado.
+        - Através do git status é possível identificar o que está sendo adicionado  e o que está sendo deletado.
 
       
       
