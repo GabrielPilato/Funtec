@@ -24,7 +24,7 @@
  - rmdir, Apaga o diretório digitado
 
 -- INSTALANDO O GIT ATRAVÉS DO SITE OFICIAL https://git-scm.com/
-  -- Iniciamos o GIT Bash
+    -- Iniciamos o GIT Bash
     
     -- CONFIGURANDO ACESSO
       git config --global user.email "gabrielpilato@hotmail.com"
