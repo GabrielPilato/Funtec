@@ -53,6 +53,8 @@
           - git log --stat, apresenta todos os commits de forma estatística, mostrando as linhas adicionadas ou excluídas
           - git log -p, apresenta o que exatamente foi adicionado ou excluido, mostrando na tela o código que foi alterado.
 
+      - git restore --stage 'Nome do arquivo', é responsável por tirar certos arquivos da zona de stage e evitar que os mesmos sejam commitados na execução do git commit.
+
       
       
     
