@@ -48,6 +48,11 @@
       ele também realizará a exclusão,
         - Através do git status é possível identificar o que está sendo adicionado  e o que está sendo deletado.
 
+      - git log , apresenta os commits realizados e dependendo das opções digitadas, mais ou menos informações irão aparecer.
+          - git log --oneline, apresenta todos os commits com seus Hash e seus comentários, uma maneira bem simples e organizada de analizar as alterações
+          - git log --stat, apresenta todos os commits de forma estatística, mostrando as linhas adicionadas ou excluídas
+          - git log -p, apresenta o que exatamente foi adicionado ou excluido, mostrando na tela o código que foi alterado.
+
       
       
     
