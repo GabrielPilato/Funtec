@@ -23,21 +23,21 @@
  - del, Apaga o conteudo de uma pasta
  - rmdir, Apaga o diretório digitado
 
--- INSTALANDO O GIT ATRAVÉS DO SITE OFICIAL https://git-scm.com/
-    -- Iniciamos o GIT Bash
+- INSTALANDO O GIT ATRAVÉS DO SITE OFICIAL https://git-scm.com/
+    - Iniciamos o GIT Bash
     
-    -- CONFIGURANDO ACESSO
+    - CONFIGURANDO ACESSO
       git config --global user.email "gabrielpilato@hotmail.com"
       git config --global user.name "GabrielPilato"
 
-    -- CONCEITOS DE GIT
+    - CONCEITOS DE GIT
       Blobs - Conteúdos, usados para armazenar
       Trees - A arvore de diretórios, é basicamente um diretório, pode armazenar blobs ou até mesmo outras arvores.
       Commit - O comando de atualização e inserção e exclusão de códigos e arquivos.
 
     SHA1 - É uma criptografia, uma assinatura contendo todas as informações do commit.
 
-    -- CRIANDO O REPOSÍTÓRIO
+    - CRIANDO O REPOSÍTÓRIO
       git init - Inicia o repositório.
       git add - Adiciona um arquivo, começa o versionamento de código
       git commit - Para dar commit nessas alterações realizadas.
