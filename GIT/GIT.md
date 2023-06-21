@@ -64,7 +64,9 @@
 - <h2> VINCULANDO O GIT AO GITHUB </h2>
 - git remote add origin 'link http', esse link consegue ser copiado no botão "code" na pagina inicial do repositório.
 - git remote -v
-- git push origin master
+- git push origin master, este comando envia o que está no nosso diretório local para o diretório remoto
+
+- git pull origin master, este comando tras do diretório remoto e coloca no diretório local
         
       
     
