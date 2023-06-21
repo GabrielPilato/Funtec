@@ -42,6 +42,7 @@
       - git add - Adiciona um arquivo, começa o versionamento de código
       - git commit - Para dar commit nessas alterações realizadas.
         - "-m" adiciona uma mensagem git commit -m "Comentario"
+        - "-a" executa tudo que está no stage, inclusive as exclusões.
       - git status - Para identificar a diferença entre o que você colocou na zona de stage e o que está presente no commit anterior
 
       - git add * , adiciona todos os arquivos pra zona de stage, inclusive, caso haja alguma exclusão de arquivos nesta pasta que estava na versão anterior
@@ -54,11 +55,11 @@
           - git log -p, apresenta o que exatamente foi adicionado ou excluido, mostrando na tela o código que foi alterado.
 
       - git restore --stage 'Nome do arquivo', é responsável por tirar certos arquivos da zona de stage e evitar que os mesmos sejam commitados na execução do git commit.
-
       - git revert numero_hash, quando desejar reverter um commit, é necessário copiar o seu codigo hash e realizar esse comando.
-
       - git restore --stage 'Nome do arquivo', é o comando responsável por retirar arquivos do stage, ou seja, ele nserá retirado da zona onde será commitado os arquivos.
-
-      
+      - git mv 'nomeArquivo' 'novoNomeArquivo', comando responsável por alterar o nome do arquivo
+      - git config --global unset user.email ou user.name, utilizado para retirar o nome e email previamente setados, eles podem ser overwriten também.
+      - git config --list, lista as configurações do git, inclusive o nome e o email estarão na lista caso seja necessário verificar
+        
       
     
