@@ -57,6 +57,8 @@
 
       - git revert numero_hash, quando desejar reverter um commit, é necessário copiar o seu codigo hash e realizar esse comando.
 
+      - git restore --stage 'Nome do arquivo', é o comando responsável por retirar arquivos do stage, ou seja, ele nserá retirado da zona onde será commitado os arquivos.
+
       
       
     
