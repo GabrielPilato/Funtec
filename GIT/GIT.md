@@ -67,6 +67,9 @@
 - git push origin master, este comando envia o que está no nosso diretório local para o diretório remoto
 
 - git pull origin master, este comando tras do diretório remoto e coloca no diretório local
-        
-      
+
+    No ato de um conflito de versões entre o github (repositório remoto) e o repositório local, o git apontara uma divergência e dentro do arquivo
+  ele adicionará linhas de código identificando as linhas com divergências, então é necessário alterar e decidir uma versão final para ser definida tanto no local quanto
+  no remoto
+
     
