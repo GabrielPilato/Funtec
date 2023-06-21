@@ -62,9 +62,9 @@
       - git config --list, lista as configurações do git, inclusive o nome e o email estarão na lista caso seja necessário verificar
 
 - <h2> VINCULANDO O GIT AO GITHUB </h2>
-  - git remote add origin 'link http', esse link consegue ser copiado no botão "code" na pagina inicial do repositório.
-  - git remote -v
-  - git push origin master
+- git remote add origin 'link http', esse link consegue ser copiado no botão "code" na pagina inicial do repositório.
+- git remote -v
+- git push origin master
         
       
     
