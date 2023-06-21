@@ -2,7 +2,7 @@
 
 - Sistema de controle de versões.
 
-- COMANDOS BÁSICOS DE PROMPT:
+- <h2> COMANDOS BÁSICOS DE PROMPT: </h2>
 
 - dir, Lista os arquivos e pastas do diretório atual; -- Este comando pode listar diretórios fora do atual, adicionar o endereço desejado na frente:
   EXEMPLO: dir C:\Users
@@ -26,18 +26,18 @@
 - INSTALANDO O GIT ATRAVÉS DO SITE OFICIAL https://git-scm.com/
     - Iniciamos o GIT Bash
     
-    - CONFIGURANDO ACESSO
+    - <h2> CONFIGURANDO ACESSO </h2>
       - git config --global user.email "gabrielpilato@hotmail.com"
       - git config --global user.name "GabrielPilato"
 
-    - CONCEITOS DE GIT
+    - <h2> CONCEITOS DE GIT </h2>
       Blobs - Conteúdos, usados para armazenar
       Trees - A arvore de diretórios, é basicamente um diretório, pode armazenar blobs ou até mesmo outras arvores.
       Commit - O comando de atualização e inserção e exclusão de códigos e arquivos.
 
     SHA1 - É uma criptografia, uma assinatura contendo todas as informações do commit.
 
-    - CRIANDO O REPOSÍTÓRIO
+    - <h2> CRIANDO O REPOSÍTÓRIO </h2>
       - git init - Inicia o repositório.
       - git add - Adiciona um arquivo, começa o versionamento de código
       - git commit - Para dar commit nessas alterações realizadas.
@@ -60,6 +60,11 @@
       - git mv 'nomeArquivo' 'novoNomeArquivo', comando responsável por alterar o nome do arquivo
       - git config --global unset user.email ou user.name, utilizado para retirar o nome e email previamente setados, eles podem ser overwriten também.
       - git config --list, lista as configurações do git, inclusive o nome e o email estarão na lista caso seja necessário verificar
+
+- <h2> VINCULANDO O GIT AO GITHUB </h2>
+  - git remote add origin 'link http', esse link consegue ser copiado no botão "code" na pagina inicial do repositório.
+  - git remote -v
+  - git push origin master
         
       
     
