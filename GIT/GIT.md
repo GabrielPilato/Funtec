@@ -27,8 +27,8 @@
     - Iniciamos o GIT Bash
     
     - CONFIGURANDO ACESSO
-      git config --global user.email "gabrielpilato@hotmail.com"
-      git config --global user.name "GabrielPilato"
+      - git config --global user.email "gabrielpilato@hotmail.com"
+      - git config --global user.name "GabrielPilato"
 
     - CONCEITOS DE GIT
       Blobs - Conteúdos, usados para armazenar
