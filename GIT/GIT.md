@@ -70,7 +70,10 @@
 
     No ato de um conflito de versões entre o github (repositório remoto) e o repositório local, o git apontara uma divergência e dentro do arquivo
   ele adicionará linhas de código identificando as linhas com divergências, então é necessário alterar e decidir uma versão final para ser definida tanto no local quanto
-  no remoto
+  no remoto <br>
+
+    Caso seja necessário remover o repositório destino, o origin, usar o comando.
+  -  git remote rm origin
   
   ![91470661-9d5a8780-e8b2-11ea-9ccb-0d813d2e35d1](https://github.com/GabrielPilato/Funtec/assets/40001302/dd32c05a-987d-4d87-9dea-4d236c557cd2)
 
