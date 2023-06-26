@@ -38,7 +38,7 @@
     SHA1 - É uma criptografia, uma assinatura contendo todas as informações do commit.
 
     - <h2> CRIANDO O REPOSÍTÓRIO </h2>
-    - git init - Inicia o repositório.
+    - git init - Inicia o repositório. Esse comando cria a pasta .git, e deve ser utilizado para cada projeto novo que ainda não possui repositorio local.
     - git add - Adiciona um arquivo, começa o versionamento de código
     - git commit - Para dar commit nessas alterações realizadas.
       - "-m" adiciona uma mensagem git commit -m "Comentario"
