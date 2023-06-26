@@ -13,7 +13,7 @@ Lista de planejamento:
     - Cursos: possuem, carga horaria diária, carga horaria minima em % de presença, dias que são realizadas as aulas, data de inicio, data de conclusão
 - Realizar um sistema que importa informações de planilhas e também tem a possibilidade de exporta-los.
 - Integrar diretamente com o banco postgres, as presenças contabilizadas passam direto pro banco.
-- 
+
 
 
       
