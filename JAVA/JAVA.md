@@ -4,4 +4,4 @@ Aqui é feita uma breve introdução dos conceitos básicos de um computador, co
 
 Baixamos a versão 17 do JDK, e então instalamos o Extension Pack for Java no github.
 
-Para declarar uma constante, "final".
+Para declarar uma constante, "final". exemplo: "static final int ESCALA = 0;"
