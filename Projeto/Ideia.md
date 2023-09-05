@@ -14,6 +14,14 @@ Lista de planejamento:
 - Realizar um sistema que importa informações de planilhas e também tem a possibilidade de exporta-los.
 - Integrar diretamente com o banco postgres, as presenças contabilizadas passam direto pro banco.
 
+---
+
+## Conectar postgres 
+- https://www.javatpoint.com/connect-to-a-postgresql-database-server
+
+## Hostear programa na web
+- https://king.host/wiki/artigo/deploy-spring-boot/
+- https://king.host/wiki/artigo/como-fazer-o-deploy-de-uma-aplicacao-java/
 
 
       
