@@ -23,7 +23,8 @@ Lista de planejamento:
 - https://king.host/wiki/artigo/deploy-spring-boot/
 - https://king.host/wiki/artigo/como-fazer-o-deploy-de-uma-aplicacao-java/
 
-
+## Icons
+- https://www.flaticon.com/free-icon/github-logo_25231
       
        
 
