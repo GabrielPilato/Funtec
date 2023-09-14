@@ -23,5 +23,7 @@ Para gerar o nosso projeto com spring
 ---
 
 ## Autenticação com postgres SpringBoot
+- https://omeryazir.medium.com/create-a-spring-boot-application-postgresql-spring-security-499488c30beb
 - https://fullstackdeveloper.guru/2020/06/05/how-to-do-user-authentication-in-spring-boot-using-postgresql-database/comment-page-1/
+- Customizando a pagina de login do spring: https://www.youtube.com/watch?v=yoTohM2jYhs
 
