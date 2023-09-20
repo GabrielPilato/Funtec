@@ -20,6 +20,7 @@ Lista de planejamento:
 - https://www.javatpoint.com/connect-to-a-postgresql-database-server
 
 ## Hostear programa na web
+- https://www.youtube.com/watch?v=p3AIecyvok4&list=PLg7lel5LdVjyO7jk-4biyr0fqPVygTLOk&index=5
 - https://king.host/wiki/artigo/deploy-spring-boot/
 - https://king.host/wiki/artigo/como-fazer-o-deploy-de-uma-aplicacao-java/
 
