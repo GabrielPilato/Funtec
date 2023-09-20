@@ -19,6 +19,7 @@ Para gerar o nosso projeto com spring
 - Google: https://www.baeldung.com/spring-boot-google-app-engine
 - Heroku: https://levelup.gitconnected.com/deploying-spring-boot-application-to-heroku-with-postgresql-dc94f193464c
 - Heroku video: https://www.youtube.com/watch?v=FHL0iZbil-o
+- https://www.treinaweb.com.br/blog/deploy-de-uma-aplicacao-spring-boot-no-heroku
 
 ---
 
