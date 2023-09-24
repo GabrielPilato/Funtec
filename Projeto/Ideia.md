@@ -27,6 +27,9 @@ Lista de planejamento:
 ## Icons
 - https://www.flaticon.com/free-icon/github-logo_25231
 
+## Estudando mais Angular
+- https://primeng.org/calendar
+
 ## Instalando Bootstrap no projeto
 ```
 npm install bootstrap jquery --save
