@@ -41,6 +41,7 @@ npm install bootstrap jquery --save
 
 ## Trabalhando com Chaves compostas e usando FindById
 - https://stackoverflow.com/questions/43763250/spring-data-rest-with-composite-primary-key
+- https://www.youtube.com/watch?v=q25jgAZTTsU
        
 
                              
