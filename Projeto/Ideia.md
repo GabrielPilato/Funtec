@@ -38,7 +38,9 @@ npm install bootstrap jquery --save
 ## Aprendendo JPA e jakarta, relacionamentos e chaves estrangeiras
 - https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/
 - https://vladmihalcea.com/the-best-way-to-map-a-many-to-many-association-with-extra-columns-when-using-jpa-and-hibernate/
-      
+
+## Trabalhando com Chaves compostas e usando FindById
+- https://stackoverflow.com/questions/43763250/spring-data-rest-with-composite-primary-key
        
 
                              
